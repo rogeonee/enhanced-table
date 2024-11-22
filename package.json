@@ -16,13 +16,19 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
     "@expo/vector-icons": "^14.0.2",
+    "@mui/icons-material": "^6.1.8",
+    "@mui/material": "^6.1.8",
     "@react-native-async-storage/async-storage": "1.23.1",
     "@react-navigation/bottom-tabs": "^7.0.0",
     "@react-navigation/native": "^7.0.0",
+    "@react-spring/web": "^9.7.5",
     "@rn-primitives/slot": "^1.1.0",
     "@rn-primitives/types": "^1.1.0",
     "@tanstack/react-table": "^8.20.5",
+    "@use-gesture/react": "^10.3.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "enhanced-table": "file:",
@@ -48,6 +54,7 @@
     "react-native-screens": "~4.0.0",
     "react-native-web": "~0.19.13",
     "react-native-webview": "13.12.2",
+    "react-tooltip": "^5.28.0",
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
